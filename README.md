@@ -6,7 +6,8 @@ The objective behind this project is to expose the real behaviour regarding port
 
 This is for the ones that may find this useful!
 
-*** PD: *** Such as the work was based on Markowiz efficient frontier models, the name of this repository is dedicated to him!
-*** PD 2: THE CODE IS STILL WORK IN PROGRESS! Hope to finish it soon! ***
+***PD:*** Such as the work was based on Markowiz efficient frontier models, the name of this repository is dedicated to him!
+
+***PD 2: THE CODE IS STILL WORK IN PROGRESS! Hope to finish it soon!***
 
 ENJOY IT!
